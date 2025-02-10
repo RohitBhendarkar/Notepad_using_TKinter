@@ -25,7 +25,7 @@ def open_file():
         text_edit.insert(tk.END,text)
     root.title(f"My Own Notepad - {file_location}")
 root = tk.Tk()
-root.title("Notepad")
+root.title("Notepad+")
 #root.geometry("800x400")
 root.rowconfigure(0,minsize=800)
 root.columnconfigure(1,minsize=800)
