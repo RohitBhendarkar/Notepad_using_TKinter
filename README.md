@@ -16,15 +16,15 @@ Notepad 1.0 is a simple text editor application built using Python and the Tkint
 
 ## Installation & Usage
 1. Clone the repository:
-   sh
+   
    git clone https://github.com/RohitBhendarkar/Notepad_using_TKinter.git
    
 3. Navigate to the project directory:
-   sh
+   
    cd notepad-python
    
 4. Run the application:
-   sh
+   
    python Notepad_1.0.py
    
 
