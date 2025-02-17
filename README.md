@@ -19,17 +19,19 @@ Notepad 1.0 is a simple text editor application built using Python and the Tkint
    
    git clone https://github.com/RohitBhendarkar/Notepad_using_TKinter.git
    
-3. Navigate to the project directory:
-   
+2. Navigate to the project directory:
+    ```sh
    cd notepad-python
-   
-4. Run the application:
-   
+   ```
+3. Run the application:
+   ```sh
    python Notepad_1.0.py
-   
+   ```
+
 
 ## Screenshots
-[Notepad_Screenshot](https://github.com/user-attachments/assets/74a778a4-5158-4a38-880c-9a249e68cd0f)
+
+![Screenshot 2025-02-17 094840](https://github.com/user-attachments/assets/ccf8a860-3f40-49c9-93bd-8f18e05ec755)
 
 
 ## Future Enhancements
@@ -39,9 +41,6 @@ Notepad 1.0 is a simple text editor application built using Python and the Tkint
 
 ## Contributing
 Feel free to fork the repository and submit pull requests to contribute to this project.
-
-## License
-This project is licensed under the MIT License.
 
 ## Contact
 For any queries or suggestions, reach out to me on [GitHub](https://github.com/RohitBhendarkar).
